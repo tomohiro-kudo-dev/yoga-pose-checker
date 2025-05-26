@@ -38,6 +38,10 @@ It helps users check the correctness of 10 common yoga poses by analyzing angles
 
 ## 📦 File Structure ファイル構成
 
+yoga-pose-checker/
+├── index.html # メインアプリ（姿勢チェックツール）
+├── README.md # このプロジェクトの概要説明
+└── LICENSE # MITライセンス
 
 ## 📄 License
 
